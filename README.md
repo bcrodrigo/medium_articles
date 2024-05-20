@@ -1,2 +1,2 @@
 # medium_articles
-To host code for my Medium articles
+Repository to host code for my Medium articles.
