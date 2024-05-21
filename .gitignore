@@ -1,2 +1,8 @@
 # hidden files
 .DS_Store
+# Jupyter notebook checkpoints
+/*/.ipynb_checkpoints/
+# Other files
+/*/jupyter_notebooks/
+/*/old/
+/*/markdown_files/
